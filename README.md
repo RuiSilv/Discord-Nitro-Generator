@@ -4,5 +4,5 @@
 
 - Nearly instant code generation
 - Generates chosen ammount of discord nitro codes
-- Saves them to a text file
-- Simple Code
+- Saves codes to a text file
+- Simple ode
