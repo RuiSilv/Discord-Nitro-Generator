@@ -1,6 +1,7 @@
 # 📜 Discord Nitro Generator
 
-# What does it do ?
+# Information
 
-- [x] Generates chosen ammount of discord nitro codes
-- [x] Saves them to a text file
+- Generates chosen ammount of discord nitro codes
+- Saves them to a text file
+- Simple Code
